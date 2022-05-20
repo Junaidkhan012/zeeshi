@@ -77,9 +77,11 @@ class Main:
  ###### ###### ######  ####  #    # #    # #    # 
                                                                                                                                                              
                                                                                                                
-════════════════════════
-وہ جو جزبات کی حرمت سے ہی ناواقف تھا
-کیسے ممکن تھا کہ میرے پیار کی قدر کرتا
+══════════════════
+Agar Aasman Walay say apkay rishtay mazboot hay
+
+Toh zameen walay kuch nahi bighad saktay.
+ا
 ════════════════════════
 \033[1;90m══════════════════════════════════════════════════
 \033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFACEBOOK : https://www.facebook.com/nadia.sheikh.9277583
